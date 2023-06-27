@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/disc-golf-tournament/static/css/main.e6c13ad2.css",
+    "main.js": "/disc-golf-tournament/static/js/main.30d0d0aa.js",
+    "static/js/787.15780b7a.chunk.js": "/disc-golf-tournament/static/js/787.15780b7a.chunk.js",
+    "index.html": "/disc-golf-tournament/index.html",
+    "main.e6c13ad2.css.map": "/disc-golf-tournament/static/css/main.e6c13ad2.css.map",
+    "main.30d0d0aa.js.map": "/disc-golf-tournament/static/js/main.30d0d0aa.js.map",
+    "787.15780b7a.chunk.js.map": "/disc-golf-tournament/static/js/787.15780b7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.30d0d0aa.js"
+  ]
+}
